@@ -1,0 +1,5 @@
+H:\ap\Slownik\Slownik\bin\Debug\Slownik.exe
+H:\ap\Slownik\Slownik\bin\Debug\Slownik.pdb
+H:\ap\Slownik\Slownik\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ap\Slownik\Slownik\obj\x86\Debug\Slownik.exe
+H:\ap\Slownik\Slownik\obj\x86\Debug\Slownik.pdb

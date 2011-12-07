@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Slownik/Program.cs">
+    <Files>
+      <File FileName="Slownik/Program.cs" Line="44" Column="21" />
+      <File FileName="Slownik/Wpis.cs" Line="10" Column="20" />
+      <File FileName="Slownik/DatabaseManager.cs" Line="132" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
