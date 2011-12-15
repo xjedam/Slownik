@@ -27,7 +27,7 @@ namespace Slownik
 				Console.WriteLine("0 - wyjście");
 				Console.Write("Wybór: ");
 				
-				input = (char)Console.ReadLine().ToCharArray()[0];
+				input = (char) System.Console.Read();
 				switch(input)
 				{
 					case '1':
